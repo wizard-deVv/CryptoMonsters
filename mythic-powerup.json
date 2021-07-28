@@ -1,0 +1,20 @@
+
+  
+{
+  "description": "BlockChain Creatures", 
+  "external_url": "soon", 
+  "image": "https://i.ibb.co/s1NL6gn/mythic-powerup.png", 
+  "name": "mythic-powerup",
+  "attributes": [ 
+    {
+      "trait_type": "Boost", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    }
+  ]
+}
+
