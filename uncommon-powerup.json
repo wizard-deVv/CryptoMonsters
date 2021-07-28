@@ -1,0 +1,18 @@
+{
+  "description": "BlockChain Creatures", 
+  "external_url": "soon", 
+  "image": "https://i.ibb.co/XjKm30s/uncommon-powerup.png", 
+  "name": "uncommon-powerup",
+  "attributes": [ 
+    {
+      "trait_type": "Boost", 
+      "value": 2
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    }
+  ]
+}
+
