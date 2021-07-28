@@ -1,0 +1,18 @@
+  
+{
+  "description": "BlockChain Creatures", 
+  "external_url": "soon", 
+  "image": "https://i.ibb.co/jLWgCJ3/mythic.png", 
+  "name": "mythic",
+  "attributes": [ 
+    {
+      "trait_type": "Level", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    }
+  ]
+}
