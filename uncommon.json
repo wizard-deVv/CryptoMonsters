@@ -1,0 +1,17 @@
+{
+  "description": "BlockChain Creatures", 
+  "external_url": "soon", 
+  "image": "https://i.ibb.co/7nhvQTG/uncommon.png", 
+  "name": "uncommon",
+  "attributes": [ 
+    {
+      "trait_type": "Level", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    }
+  ]
+}
